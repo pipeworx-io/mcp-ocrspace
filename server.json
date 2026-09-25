@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ocrspace",
   "title": "Ocrspace",
   "description": "OCR.space MCP — wraps the OCR.space API (ocr.space) for image/PDF → text OCR.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ocrspace",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ocrspace",
