@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ocrspace",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "OCR.space MCP — wraps the OCR.space API (ocr.space) for image/PDF → text OCR.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ocrspace",
     "gatewaySlug": "ocrspace",
-    "sourceHash": "v1-4a0ececca856d090ab6ce7300a50fc94439847b1450dbe46259994d12aae7346",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-575a4873a93bec416655b9e884e8471a16ea0643f642b455a7b7d95838454952",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
